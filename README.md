@@ -12,7 +12,7 @@ This Contact Us form is designed using HTML and CSS, with seamless email integra
 - 🎨 CSS
 - ✉️ Web3Forms API
 
-# Ptoject Link
+# 🔗 Project Link
 
 Here Is The Link Of My Project, Click Here : https://bazalsarfraz786.github.io/Contact_Us-form/
   
